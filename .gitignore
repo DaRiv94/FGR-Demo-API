@@ -1,0 +1,11 @@
+
+#configuration + Environment
+.env
+config.json
+config*.json
+
+#dependancies
+/node_modules
+
+#testing coverage
+/coverage

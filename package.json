@@ -1,0 +1,26 @@
+{
+  "name": "fgrdemoapi",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to be a simple demo api that can be used in demos to displaying a variety of functionality based on the service it is used for.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "app": "nodemon --legacy-watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaRiv94/container-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaRiv94/container-node-app/issues"
+  },
+  "homepage": "https://github.com/DaRiv94/container-node-app#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
